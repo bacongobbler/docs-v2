@@ -25,6 +25,9 @@ Cloud-based options:
 
 If you would like to test on your local machine follow, our guide for [Vagrant](provider/vagrant/boot.md).
 
+!!! important
+	The Workflow team actively tests new releases against Google Container Engine, Amazon Web Services and Vagrant. All other cloud provider documentation is maintained by the community.
+
 If you have already created a Kubernetes cluster, check out the [system requirements](../installing-workflow/system-requirements.md) and then proceed to [install Deis Workflow on your own Kubernetes cluster](../installing-workflow/index.md).
 
 ## Step 3: Deploy your first app
